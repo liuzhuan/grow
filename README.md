@@ -15,3 +15,4 @@ Let's learn and grow.
 ## links
 
 * [my wish list of 100 things](./docs/wishlist.md)
+* [OKR](./content/okr/README.md)
